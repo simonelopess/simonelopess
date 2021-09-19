@@ -5,8 +5,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sisilopes20@gmail.com)](mailto:sisilopes20@gmail.com)
 
 - 🔭 I’m currently working on React at [Dextra](https://www.dextra.com.br/)
-- 🌱 I’m currently learning JS, React, Node.JS and Flutter
+- 🌱 I’m currently working with React and Node.JS
 - 💬 Ask me about tech, music, travels 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonelopess&theme=dark&hide=typescript&layout=compact)
