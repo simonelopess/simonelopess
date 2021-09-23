@@ -7,3 +7,5 @@
 - 🔭 I’m currently working on React at [Dextra](https://www.dextra.com.br/)
 - 🌱 I’m currently working with React and Node.JS
 - 💬 Ask me about tech, music, travels 
+
+![avatar](https://user-images.githubusercontent.com/11641279/134509300-93dc52eb-b123-4bca-a7b2-b384e19e7100.png)
