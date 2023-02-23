@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simone-lopes-52367843/)](https://www.linkedin.com/in/simone-lopes-52367843/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sisilopes20@gmail.com)](mailto:sisilopes20@gmail.com)
 
-- 🔭 I’m currently working on React at [CI&T](https://www.ciandt.com.br/)
+- 🔭 I’m currently working on React at [Aubay - Portugal ](https://www.aubay.pt/)
 - 🌱 I’m currently working with React and Node.JS
 - 💬 Ask me about tech, music, travels 
 
