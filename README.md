@@ -4,8 +4,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simone-lopes-52367843/)](https://www.linkedin.com/in/simone-lopes-52367843/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sisilopes20@gmail.com)](mailto:sisilopes20@gmail.com)
 
-- 🔭 I’m currently as Frontend Developer at [Aubay - Portugal ](https://www.aubay.pt/)
-- 🌱 I've knowledge in JS, TS, Node e React JS.
-- I've graduate in Information System and postgraduate in Web Development.
+![Simone Lopes Repository's Stats](https://github-readme-stats.vercel.app/api?username=simonelopess&show_icons=true&theme=blue-green)
 
-![avatar](https://user-images.githubusercontent.com/11641279/134509300-93dc52eb-b123-4bca-a7b2-b384e19e7100.png)
+
+I have worked with development since 2019, in Full Stack Developer I have more than 3 years of experience. I have worked in areas such as: finance and outsourcing. 
+
+- 🔭 Currently work as Frontend Developer at [Aubay - Portugal ](https://www.aubay.pt/)
+- Postgraduate in Web Development.
+
+![](https://img.shields.io/badge/Javascript-02569B?style=for-the-badge&logo=flutter&logoColor=yellow)
+![](https://img.shields.io/badge/Typescript-02569B?style=for-the-badge&logo=flutter&logoColor=blue)
+![](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=flutter&logoColor=pink)
+![](https://img.shields.io/badge/Node-02569B?style=for-the-badge&logo=flutter&logoColor=green)
+![](https://img.shields.io/badge/CSharp-02569B?style=for-the-badge&logo=flutter&logoColor=purple)
+
