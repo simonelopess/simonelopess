@@ -11,6 +11,7 @@ I have worked with development since 2019, in Full Stack Developer I have more t
 
 - 🔭 Currently work as Frontend Developer at [Aubay - Portugal ](https://www.aubay.pt/)
 - Postgraduate in Web Development.
+- Learning C#
 
 ![](https://img.shields.io/badge/Javascript-02569B?style=for-the-badge&logo=flutter&logoColor=yellow)
 ![](https://img.shields.io/badge/Typescript-02569B?style=for-the-badge&logo=flutter&logoColor=blue)
