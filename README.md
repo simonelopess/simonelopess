@@ -9,10 +9,10 @@
 
 I have worked with development since 2019, in Full Stack Developer I have more than 3 years of experience. I have worked in areas such as: finance and outsourcing. 
 
-- 🔭 Currently work as Frontend Developer at [Aubay - Portugal ](https://www.aubay.pt/)
+- 🔭 Currently work as Frontend Developer at [Noesis - Portugal ](https://www.noesis.pt/pt)
 - Postgraduate in Web Development.
 - Learning C#
-
+.
 ![](https://img.shields.io/badge/Javascript-02569B?style=for-the-badge&logo=flutter&logoColor=yellow)
 ![](https://img.shields.io/badge/Typescript-02569B?style=for-the-badge&logo=flutter&logoColor=blue)
 ![](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=flutter&logoColor=pink)
