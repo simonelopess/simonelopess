@@ -9,7 +9,7 @@
 
 I have worked with development since 2019, in Full Stack Developer I have more than 3 years of experience. I have worked in areas such as: finance and outsourcing. 
 
-- 🔭 Currently work as Frontend Developer at [Noesis - Portugal ](https://www.noesis.pt/pt)
+- 🔭 Currently work as Frontend Developer
 - Postgraduate in Web Development.
 - Learning C#
 .
