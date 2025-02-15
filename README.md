@@ -13,7 +13,7 @@ I have worked with development since 2019, in Full Stack Developer I have more t
 - Postgraduate in Web Development.
 - Learning Vue 3
 
-.
+
 ![](https://img.shields.io/badge/Javascript-02569B?style=for-the-badge&logo=flutter&logoColor=yellow)
 ![](https://img.shields.io/badge/Typescript-02569B?style=for-the-badge&logo=flutter&logoColor=blue)
 ![](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=flutter&logoColor=pink)
